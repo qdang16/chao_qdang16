@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'chao_qdang16'
+puts Chao_Qdang16.hi(ARGV[0])
